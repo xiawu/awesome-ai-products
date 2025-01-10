@@ -143,6 +143,17 @@ This repository aims to provide a comprehensive list of high-quality AI products
   - Multiple AI model support (Llama, GPT-4, Claude)
   - Modular plugin system
   - Full TypeScript support
+- [WebVoyager](https://github.com/MinorJerry/WebVoyager) - End-to-End Web Agent with Large Multimodal Models:
+  - 🤖 Multimodal web agent integration
+  - 🌐 Online browsing environment with Selenium
+  - 🎯 Diverse web task support
+  - 📊 Automated GPT-4V evaluation
+  - 🔄 Semi-automated task generation
+  - 🎨 Visual and textual information processing
+  - 🛠️ Customizable prompt system
+  - 📱 Flexible browser automation
+  - 💡 Generalist planning approach
+  - 🔌 OpenAI API integration
 
 ## Business & Productivity
 
@@ -171,6 +182,17 @@ This repository aims to provide a comprehensive list of high-quality AI products
 - [Synthesia](https://www.synthesia.io/) - Create AI videos from text.
 - [RunwayML](https://runwayml.com/) - AI-powered video editing tools.
 - [D-ID](https://www.d-id.com/) - Create talking avatar videos with AI.
+- [HeyGen Labs](https://labs.heygen.com/) - AI video generation platform:
+  - 🎥 Instant video avatar creation
+  - 🗣️ Multi-language voice synthesis
+  - 🎬 Video customization tools
+  - 🌐 Global language support
+  - 🎨 Professional video templates
+  - ⚡ Real-time video generation
+  - 👥 Multiple avatar options
+  - 🔄 Easy video editing
+  - 🎯 Business-focused features
+  - 🚀 Quick turnaround time
 
 ## Research & Education
 
@@ -185,6 +207,17 @@ This repository aims to provide a comprehensive list of high-quality AI products
 - [Duolingo Max](https://www.duolingo.com/) - AI-powered language learning.
 - [Coursera](https://www.coursera.org/) - AI-enhanced online learning platform.
 - [Khan Academy](https://www.khanacademy.org/) - AI-powered personalized learning.
+- [Gemini Teacher](https://github.com/nishuzumi/gemini-teacher) - AI-powered English pronunciation assistant:
+  - 🎤 Real-time speech recognition
+  - 🤖 AI-driven pronunciation assessment
+  - 📝 Grammar correction
+  - 🔄 Scenario-based conversation practice
+  - 🎯 Targeted pronunciation guidance
+  - 💡 Intelligent scene switching
+  - 🌐 Google Gemini AI integration
+  - 🎙️ Voice interaction capabilities
+  - ⚡ Real-time feedback
+  - 🔌 ElevenLabs voice synthesis support
 
 ## Data Analysis & Visualization
 
@@ -256,6 +289,17 @@ This repository aims to provide a comprehensive list of high-quality AI products
   - 🤖 Multiple model support (GPT-4, GPT-3.5, Claude, etc.)
   - 🐍 Python API
   - 🔌 REST API interface
+- [SimCSE](https://github.com/princeton-nlp/SimCSE) - Simple Contrastive Learning of Sentence Embeddings:
+  - 🤖 State-of-the-art sentence embeddings
+  - 📚 Both supervised and unsupervised learning
+  - 🔄 Easy-to-use sentence embedding tool
+  - 🎯 High performance on semantic similarity tasks
+  - 💻 Multiple pre-trained models available
+  - ⚡ Fast inference with Hugging Face integration
+  - 🔌 Support for BERT and RoBERTa models
+  - 📊 Comprehensive evaluation suite
+  - 🛠️ Training code included
+  - 🌟 83.76 STS score for best model
 
 ## Design to Code
 
@@ -378,6 +422,23 @@ This repository aims to provide a comprehensive list of high-quality AI products
   - 🛠️ Data preprocessing helpers
   - 🔍 Error analysis
   - 💡 Best practices suggestions 
+
+## 🤝 Conferences & Events
+
+*Upcoming major AI conferences and events*
+
+### Conferences
+- [AAAI-25](https://aaai.org/conference/aaai/aaai-25/) - 39th AAAI Conference on Artificial Intelligence:
+  - 📅 February 25 - March 4, 2025
+  - 📍 Philadelphia, Pennsylvania, USA
+  - 🎯 Research exchange across all AI disciplines
+  - 📝 Paper submissions: Aug 15, 2024
+  - 🔍 OpenReview submission platform
+  - 🎓 Student programs & scholarships
+  - 🤝 Workshops & tutorials
+  - 💼 Job fair & industry demos
+  - 📊 Poster sessions
+  - 🏆 Multiple special tracks
 
 ## 🤝 Contributing
 
