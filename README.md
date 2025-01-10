@@ -314,28 +314,6 @@ This repository aims to provide a comprehensive list of high-quality AI products
   - 🛠️ Efficient training framework
   - 📈 Commercial use supported
 
-## 🤝 Contributing
-
-Your contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
-
-## 📜 License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Your Name] has waived all copyright and related rights to this work.
-
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/awesome-ai-products&type=Date)](https://star-history.com/#yourusername/awesome-ai-products&Date)
-
-## 📬 Contact
-
-If you have any questions, feel free to reach out to me:
-- Twitter: TBD
-
----
-*Remember to star ⭐ this repo if you find it helpful!* 
-
 ### AI Development Platforms
 - [Cursor](https://www.cursor.com/) - Next-generation AI code editor:
   - 🧠 Intelligent code completion
@@ -400,3 +378,22 @@ If you have any questions, feel free to reach out to me:
   - 🛠️ Data preprocessing helpers
   - 🔍 Error analysis
   - 💡 Best practices suggestions 
+
+## 🤝 Contributing
+
+Your contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## 📜 License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Your Name] has waived all copyright and related rights to this work.
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/awesome-ai-products&type=Date)](https://star-history.com/#yourusername/awesome-ai-products&Date)
+
+## 📬 Contact
+
+If you have any questions, feel free to reach out to me:
+- Twitter: TBD 
