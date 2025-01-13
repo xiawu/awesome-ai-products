@@ -305,6 +305,10 @@ This repository aims to provide a comprehensive list of high-quality AI products
   - 🔄 Supports point forecasts with optional quantile heads.
   - 📈 Ideal for contiguous context and same frequency for context and horizon.
   - 📚 Checkpoint available for installation and usage instructions.
+- [Sky-T1](https://novasky-ai.github.io/posts/sky-t1/) - Sky-T1-32B-Preview, a reasoning model that performs on par with o1-preview on popular reasoning and coding benchmarks:
+  - 💰 Trained for less than $450, demonstrating affordable high-level reasoning capabilities.
+  - 📊 Fully open-source with all details (data, codes, model weights) available for community replication.
+  - 🧠 Achieves competitive reasoning performance in both math and coding tasks.
 
 ## Design to Code
 
