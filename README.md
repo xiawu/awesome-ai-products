@@ -300,6 +300,11 @@ This repository aims to provide a comprehensive list of high-quality AI products
   - 📊 Comprehensive evaluation suite
   - 🛠️ Training code included
   - 🌟 83.76 STS score for best model
+- [TimesFM](https://huggingface.co/google/timesfm-2.0-500m-pytorch) - Time Series Foundation Model developed by Google Research for time-series forecasting:
+  - 📊 Performs univariate time series forecasting for context lengths up to 2048 time points.
+  - 🔄 Supports point forecasts with optional quantile heads.
+  - 📈 Ideal for contiguous context and same frequency for context and horizon.
+  - 📚 Checkpoint available for installation and usage instructions.
 
 ## Design to Code
 
