@@ -309,6 +309,17 @@ This repository aims to provide a comprehensive list of high-quality AI products
   - 💰 Trained for less than $450, demonstrating affordable high-level reasoning capabilities.
   - 📊 Fully open-source with all details (data, codes, model weights) available for community replication.
   - 🧠 Achieves competitive reasoning performance in both math and coding tasks.
+- [MatterGen](https://github.com/microsoft/mattergen) - Generative model for inorganic materials design:
+  - 🧪 Generates materials across the periodic table
+  - 🎯 Fine-tunable for property constraints
+  - 📊 Supports multiple property conditioning
+  - 🔄 Pre-trained models available
+  - 💻 Complete training pipeline
+  - 📈 Evaluation tools included
+  - 🧬 Large-scale datasets provided
+  - 🔍 DFT-validated results
+  - 🛠️ Easy-to-use Python interface
+  - 📚 Comprehensive documentation
 
 ## Design to Code
 
