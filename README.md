@@ -57,6 +57,8 @@ This repository aims to provide a comprehensive list of high-quality AI products
 ## Development
 
 *Tools for software development and coding.*
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin providing SEO and Google Ads skills. Meta tags, schema markup, keyword bids, and CMS content pushes.
+
 
 ### Code Assistance
 - [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer that suggests code completions.
