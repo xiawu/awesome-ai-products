@@ -28,6 +28,7 @@ This repository aims to provide a comprehensive list of high-quality AI products
 - [Midjourney](https://www.midjourney.com/) - Create stunning artwork using text prompts via Discord.
 - [DALL-E](https://openai.com/dall-e-2) - Generate and edit images from natural language descriptions.
 - [Stable Diffusion](https://stability.ai/) - Open-source text-to-image generation model.
+- [Seedream AI Studio](https://seedream4.video/) - Multi-model AI image generation using ByteDance Seedream 5.0/4.5/4.0 with one-click video via Kling 2.1. Free tier available.
 
 ### Design Tools
 - [Canva Magic Studio](https://www.canva.com/magic) - AI-powered design tools for creating professional graphics.
