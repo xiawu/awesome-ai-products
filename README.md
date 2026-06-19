@@ -169,6 +169,9 @@ This repository aims to provide a comprehensive list of high-quality AI products
 - [Akkio](https://www.akkio.com/) - Easy-to-use AI analytics platform.
 - [Beautiful.ai](https://www.beautiful.ai/) - AI-powered presentation creation.
 
+### Marketing & SEO
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads (~2.9k stars, MIT). Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP; covers [SEO](https://github.com/nowork-studio/NotFair/tree/main/seo), [Google Ads](https://github.com/nowork-studio/NotFair/tree/main/google-ads), and [Meta Ads](https://github.com/nowork-studio/NotFair/tree/main/meta-ads) workflows.
+
 ## Audio & Video
 
 *Tools for audio and video creation and editing.*
