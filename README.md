@@ -33,6 +33,7 @@ This repository aims to provide a comprehensive list of high-quality AI products
 - [Canva Magic Studio](https://www.canva.com/magic) - AI-powered design tools for creating professional graphics.
 - [Adobe Firefly](https://www.adobe.com/firefly) - Suite of creative generative AI tools.
 - [Figma AI](https://www.figma.com/) - AI features integrated into the popular design platform.
+- [HairWow](https://www.gohairwow.com/) - AI hairstyle try-on and hair-care guidance for previewing haircuts, colors, beards, and salon-ready style directions on your own photo.
 - [Codia AI Design](https://codia.ai/) - AI-powered design conversion and generation:
   - Screenshot to Figma conversion
   - Prompt to UI generation
@@ -477,4 +478,4 @@ To the extent possible under law, [Your Name] has waived all copyright and relat
 ## 📬 Contact
 
 If you have any questions, feel free to reach out to me:
-- Twitter: TBD 
+- Twitter: TBD
