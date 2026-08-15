@@ -201,6 +201,7 @@ This repository aims to provide a comprehensive list of high-quality AI products
 ### Research Tools
 - [Elicit](https://elicit.org/) - AI research assistant.
 - [Consensus](https://consensus.app/) - AI-powered research paper search.
+- [IdeaHunter](https://ideahunter.today/) - AI research for finding demand-backed app and micro-SaaS ideas.
 - [Perplexity AI](https://www.perplexity.ai/) - AI search engine for research.
 
 ### Learning Tools
