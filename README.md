@@ -64,6 +64,10 @@ This repository aims to provide a comprehensive list of high-quality AI products
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - ML-powered coding companion.
 
 ### Development Tools
+- [Agent QA](https://github.com/vostride/agent-qa) - Source-available (FSL-1.1-ALv2) QA harness for web and mobile applications:
+  - 🧪 Natural-language web, Android, and iOS tests
+  - 🧠 Execution memory and recovery from UI changes
+  - 🛠️ CLI, dashboard, MCP server, and Agent Skills
 - [Replit](https://replit.com/) - Cloud-based IDE and development platform:
   - 🤖 Ghost - AI pair programmer
   - 🎨 AI web developer and designer
