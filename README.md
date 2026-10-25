@@ -26,11 +26,13 @@ This repository aims to provide a comprehensive list of high-quality AI products
 
 ### Image Generation
 - [Midjourney](https://www.midjourney.com/) - Create stunning artwork using text prompts via Discord.
+- [PromptImage](https://promptimage.cloud/) - Free AI image & video studio with a prompt library; signup credits, no card required.
 - [DALL-E](https://openai.com/dall-e-2) - Generate and edit images from natural language descriptions.
 - [Stable Diffusion](https://stability.ai/) - Open-source text-to-image generation model.
 
 ### Design Tools
 - [Canva Magic Studio](https://www.canva.com/magic) - AI-powered design tools for creating professional graphics.
+- [TeslaWraps](https://teslawraps.design/) - Browser Tesla Paint Shop wrap designer with 3D preview and PNG export; core editing free without an account (optional AI credits).
 - [Adobe Firefly](https://www.adobe.com/firefly) - Suite of creative generative AI tools.
 - [Figma AI](https://www.figma.com/) - AI features integrated into the popular design platform.
 - [Codia AI Design](https://codia.ai/) - AI-powered design conversion and generation:
@@ -180,6 +182,13 @@ This repository aims to provide a comprehensive list of high-quality AI products
 
 ### Video Tools
 - [Synthesia](https://www.synthesia.io/) - Create AI videos from text.
+- [GrokVideo Studio](https://grokvideogenerator.dev/) - Independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); free trial credits.
+- [Alors On Danse Video Maker](https://alorsondansevideo.com): Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev): Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com): Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev): Independent unofficial AI: one photo → 13s 480p 21:9 solo dance video (Paid from $7.99). Not affiliated with Riot Games or K/DA
+- [A2O LITE NEON AI Dance](https://a2oliteai.org): Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtrack (Paid from $7.99). Unofficial
+- [dime dime baby ai](https://dimedimebabyai.dev): Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99)
 - [RunwayML](https://runwayml.com/) - AI-powered video editing tools.
 - [D-ID](https://www.d-id.com/) - Create talking avatar videos with AI.
 - [HeyGen Labs](https://labs.heygen.com/) - AI video generation platform:
