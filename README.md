@@ -8,6 +8,7 @@ This repository aims to provide a comprehensive list of high-quality AI products
 
 ## 📋 Contents
 
+- [Character Chat & Roleplay](#character-chat--roleplay)
 - [Art & Design](#art--design)
 - [Writing & Content](#writing--content)
 - [Development](#development)
@@ -19,6 +20,10 @@ This repository aims to provide a comprehensive list of high-quality AI products
 - [Free AI Models & APIs](#free-ai-models--apis)
 - [Design to Code](#design-to-code)
 - [Large Language Models](#large-language-models)
+
+## Character Chat & Roleplay
+
+- [Sammi: AI Girlfriend](https://sammiai.app/) - Android fictional AI character chat with voice interaction, customization and creative roleplay; free download with in-app purchases.
 
 ## Art & Design
 
